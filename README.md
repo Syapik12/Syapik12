@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syafiq Bin Kheruddin</h1>
 <h3 align="center">Currently taking degree in Computer Science.</h3>
 
-- 🔭 I’m currently working on **MyInsider**
+- 🔭 I’m currently working on **MyInsider(Final Year Project)**
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
