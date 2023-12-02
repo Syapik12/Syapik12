@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syafiq Bin Kheruddin</h1>
-<h3 align="center">A passionate and motivated computer science student on a journey to explore the vast world of technology.</h3>
+<h3 align="center">Currently taking degree in Computer Science.</h3>
 
 - 🔭 I’m currently working on **MyInsider**
 
