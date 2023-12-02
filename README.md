@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
-- 💬 Ask me about **any codes**
-
 - 📫 How to reach me **muhammadsyafiq545@gmail.com**
 
 - ⚡ Fun fact **The best preparation for tomorrow is doing your best today.**
