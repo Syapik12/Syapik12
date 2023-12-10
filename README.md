@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammadsyafiq545@gmail.com**
 
-- ⚡ Fun fact **The best preparation for tomorrow is doing your best today.**
+- ⚡ Best Quote **The best preparation for tomorrow is doing your best today.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
