@@ -9,7 +9,7 @@
 
 - ⚡ Best Quote **The best preparation for tomorrow is doing your best today.**
 
-Japan Lifestyle, Culture and Entertainment Project LINK: https://japan-project.netlify.app
+-  Japan Lifestyle, Culture and Entertainment Project LINK: https://japan-project.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
